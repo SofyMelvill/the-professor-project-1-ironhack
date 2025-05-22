@@ -1,583 +1,286 @@
 date,job_title,salary_in_usd,work_mode,country,skills
-2025,Other,52996.0,onsite,GB,['r']
 2025,Data Analyst,50000.0,hybrid,GB,"['excel', 'power bi', 'python', 'r', 'sql']"
-2025,Data Analyst,24000.0,onsite,GB,['r']
-2025,Data Analyst,35000.0,onsite,GB,['r']
-2025,Data Analyst,43779.0,onsite,GB,['r']
-2025,Data Analyst,25904.0,onsite,GB,['r']
-2025,Data Analyst,47135.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Data Analyst,40522.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Data Analyst,39248.0,onsite,GB,['r']
-2025,Data Analyst,28000.0,onsite,GB,['r']
-2025,Data Analyst,39248.0,onsite,GB,['r']
-2025,Data Analyst,59082.0,onsite,GB,['r']
+2025,Data Analyst,24000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,35000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,43779.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,25904.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,47135.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,40522.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,39248.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,28000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,39248.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,59082.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,64864.0,onsite,GB,"['azure', 'r']"
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Data Scientist,47200.0,onsite,GB,['r']
-2025,Data Analyst,58957.0,onsite,GB,['r']
-2025,Data Analyst,41806.0,onsite,GB,['r']
-2025,Data Analyst,97500.0,remote,GB,['r']
-2025,Data Analyst,39248.0,onsite,GB,['r']
-2025,Data Analyst,54000.0,hybrid,GB,['r']
+2025,Data Scientist,47200.0,onsite,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,58957.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,41806.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,97500.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,39248.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,54000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,42500.0,hybrid,GB,"['excel', 'power bi', 'python', 'r', 'sql']"
-2025,Other,35130.0,onsite,GB,"['excel', 'r']"
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,42713.0,onsite,GB,['r']
-2025,Other,35000.0,onsite,GB,['r']
-2025,Other,62604.0,onsite,GB,['r']
-2025,Data Analyst,35739.0,onsite,GB,['r']
-2025,Data Analyst,55000.0,hybrid,GB,['r']
-2025,Other,45372.0,onsite,GB,['r']
-2025,Data Analyst,35830.0,onsite,GB,['r']
-2025,Other,65066.0,onsite,GB,['r']
-2025,Other,54162.0,onsite,GB,['r']
-2025,Data Analyst,169000.0,onsite,GB,['r']
+2025,Data Analyst,35739.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,55000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,35830.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,169000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,29472.0,hybrid,GB,"['excel', 'r', 'statistics']"
-2025,Data Analyst,55000.0,onsite,GB,['r']
-2025,Other,30847.0,onsite,GB,['r']
-2025,Data Analyst,40823.0,hybrid,GB,['r']
-2025,Data Analyst,50000.0,onsite,GB,['r']
-2025,Data Analyst,45862.0,onsite,GB,['r']
-2025,Other,45459.0,onsite,GB,['r']
-2025,Data Scientist,53196.0,onsite,GB,['r']
-2025,Data Engineer,74337.0,onsite,GB,['r']
-2025,Data Scientist,48904.0,onsite,GB,['r']
+2025,Data Analyst,55000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,40823.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45862.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,53196.0,onsite,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Engineer,74337.0,onsite,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Scientist,48904.0,onsite,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Analyst,40000.0,remote,GB,"['excel', 'r']"
-2025,Other,41767.0,onsite,GB,['r']
-2025,Data Analyst,40000.0,onsite,GB,['r']
+2025,Data Analyst,40000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,25000.0,hybrid,GB,"['power bi', 'r', 'sql']"
-2025,Data Scientist,48094.0,hybrid,GB,['r']
-2025,Other,28928.0,onsite,GB,['r']
-2025,Data Engineer,104000.0,onsite,GB,['r']
-2025,Data Analyst,45998.0,onsite,GB,['r']
-2025,Data Analyst,48594.0,onsite,GB,['r']
-2025,Data Analyst,45805.0,onsite,GB,['r']
-2025,Data Analyst,37656.0,onsite,GB,['r']
-2025,Data Analyst,37441.0,onsite,GB,['r']
-2025,Data Analyst,37464.0,onsite,GB,['r']
-2025,Other,65000.0,onsite,GB,"['python', 'r', 'sql']"
+2025,Data Scientist,48094.0,hybrid,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Engineer,104000.0,onsite,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,45998.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,48594.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45805.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37656.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37441.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37464.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,57000.0,onsite,GB,"['r', 'sql']"
 2025,Data Analyst,60000.0,hybrid,GB,"['python', 'r', 'sql']"
-2025,Data Analyst,54570.0,onsite,GB,['r']
-2025,Data Analyst,38034.0,hybrid,GB,['r']
-2025,Data Scientist,43144.0,hybrid,GB,['r']
-2025,Data Analyst,97500.0,hybrid,GB,['r']
+2025,Data Analyst,54570.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,38034.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,43144.0,hybrid,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,97500.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,48776.0,onsite,GB,"['excel', 'r', 'sql']"
-2025,Data Analyst,66301.0,onsite,GB,['r']
-2025,Data Analyst,97500.0,hybrid,GB,['r']
+2025,Data Analyst,66301.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,97500.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,40000.0,remote,GB,"['excel', 'r']"
 2025,Data Analyst,40000.0,onsite,GB,"['power bi', 'python', 'r']"
-2025,Other,60409.0,onsite,GB,"['r', 'sql']"
-2025,Other,23889.0,hybrid,GB,['r']
-2025,Data Engineer,104000.0,onsite,GB,['r']
-2025,Data Analyst,40000.0,onsite,GB,['r']
-2025,Data Analyst,77500.0,onsite,GB,['r']
+2025,Data Engineer,104000.0,onsite,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,40000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,77500.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,40000.0,onsite,GB,"['power bi', 'python', 'r']"
-2025,Other,27903.0,hybrid,GB,['r']
-2025,Other,143000.0,hybrid,GB,['r']
-2025,Other,69530.0,onsite,GB,['r']
-2025,Data Analyst,42135.0,onsite,GB,['r']
-2025,Other,143000.0,hybrid,GB,['r']
-2025,Data Analyst,45000.0,hybrid,GB,['r']
-2025,Other,18000.0,onsite,GB,"['excel', 'r']"
+2025,Data Analyst,42135.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,185250.0,onsite,GB,"['python', 'r']"
-2025,Data Analyst,55000.0,onsite,GB,['r']
-2025,Other,70000.0,onsite,GB,['r']
-2025,Data Analyst,47840.0,onsite,GB,['r']
-2025,Data Analyst,52020.0,onsite,GB,['r']
+2025,Data Analyst,55000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,47840.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,52020.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,47169.0,onsite,GB,"['excel', 'r']"
-2025,Data Analyst,45369.0,onsite,GB,['r']
-2025,Data Analyst,28000.0,onsite,GB,['r']
-2025,Data Analyst,26500.0,onsite,GB,['r']
-2025,Data Analyst,28000.0,onsite,GB,['r']
+2025,Data Analyst,45369.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,28000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,26500.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,28000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,35000.0,onsite,GB,"['excel', 'r']"
-2025,Data Analyst,26500.0,onsite,GB,['r']
-2025,Other,34902.0,onsite,GB,"['excel', 'r']"
+2025,Data Analyst,26500.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,39188.0,onsite,GB,"['excel', 'r']"
-2025,Other,32710.0,onsite,GB,"['excel', 'r']"
-2025,Data Analyst,30500.0,onsite,GB,['r']
+2025,Data Analyst,30500.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,37497.0,onsite,GB,"['excel', 'r']"
-2025,Data Analyst,36329.0,onsite,GB,['r']
-2025,Other,71000.0,remote,GB,['r']
+2025,Data Analyst,36329.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,80000.0,onsite,GB,"['r', 'tableau']"
-2025,Other,55000.0,onsite,GB,['r']
-2025,Data Analyst,39879.0,onsite,GB,['r']
-2025,Data Analyst,45823.0,hybrid,GB,['r']
-2025,Data Analyst,32500.0,hybrid,GB,['r']
-2025,Other,62016.0,onsite,GB,['r']
-2025,Data Analyst,34209.0,onsite,GB,['r']
-2025,Data Analyst,58435.0,onsite,GB,['r']
-2025,Other,52000.0,hybrid,GB,['r']
-2025,Data Analyst,48349.0,hybrid,GB,['r']
-2025,Data Analyst,21842.0,onsite,GB,['r']
-2025,Other,45453.0,hybrid,GB,['r']
-2025,Data Analyst,60899.0,onsite,GB,['r']
-2025,Other,49868.0,onsite,GB,['r']
-2025,Data Analyst,32500.0,onsite,GB,['r']
-2025,Other,45702.0,hybrid,GB,['r']
-2025,Data Analyst,48280.0,onsite,GB,['r']
-2025,Other,71921.0,hybrid,GB,['r']
-2025,Data Analyst,51960.0,onsite,GB,['r']
-2025,Data Analyst,74734.0,onsite,GB,['r']
-2025,Data Engineer,74221.0,hybrid,GB,['r']
-2025,Other,40976.0,onsite,GB,['r']
-2025,Data Analyst,39026.0,onsite,GB,['r']
-2025,Other,18000.0,onsite,GB,"['excel', 'r']"
-2025,Data Analyst,45000.0,hybrid,GB,['r']
-2025,Data Analyst,45340.0,onsite,GB,['r']
-2025,Data Analyst,37225.0,remote,GB,['r']
-2025,Data Analyst,40234.0,remote,GB,['r']
-2025,Data Analyst,36723.0,remote,GB,['r']
-2025,Data Analyst,60353.0,onsite,GB,['r']
-2025,Data Analyst,26000.0,onsite,GB,['r']
-2025,Other,39565.0,onsite,GB,['r']
-2025,Data Analyst,26000.0,onsite,GB,['r']
-2025,Data Analyst,50000.0,onsite,GB,['r']
-2025,Data Analyst,53004.0,onsite,GB,['r']
-2025,Data Analyst,28000.0,onsite,GB,['r']
-2025,Other,48847.0,onsite,GB,['r']
-2025,Other,62020.0,onsite,GB,['r']
-2025,Other,115050.0,onsite,GB,['r']
-2025,Data Analyst,33977.0,onsite,GB,['r']
-2025,Data Analyst,36398.0,onsite,GB,['r']
-2025,Data Analyst,45665.0,onsite,GB,['r']
-2025,Other,42460.0,onsite,GB,['r']
-2025,Data Analyst,37116.0,onsite,GB,['r']
-2025,Other,58027.0,onsite,GB,['r']
-2025,Data Engineer,47124.0,onsite,GB,['r']
-2025,Data Engineer,44993.0,onsite,GB,['r']
+2025,Data Analyst,39879.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45823.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,32500.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,34209.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,58435.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,48349.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,21842.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,60899.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,32500.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,48280.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,51960.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,74734.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,74221.0,hybrid,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,39026.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45340.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37225.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,40234.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,36723.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,60353.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,26000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,26000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,53004.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,28000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,33977.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,36398.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45665.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37116.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,47124.0,onsite,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,44993.0,onsite,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
 2025,Data Analyst,67149.0,onsite,GB,"['machine learning', 'r']"
-2025,Data Analyst,26000.0,onsite,GB,['r']
-2025,Data Analyst,37476.0,remote,GB,['r']
-2025,Data Analyst,40684.0,remote,GB,['r']
-2025,Data Analyst,37636.0,remote,GB,['r']
+2025,Data Analyst,26000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37476.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,40684.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37636.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,39402.0,onsite,GB,"['excel', 'r']"
-2025,Data Analyst,37553.0,onsite,GB,['r']
-2025,Other,46339.0,onsite,GB,['r']
-2025,Other,47857.0,onsite,GB,['r']
-2025,Other,44535.0,hybrid,GB,['r']
-2025,Data Analyst,43008.0,onsite,GB,['r']
-2025,Data Analyst,50000.0,hybrid,GB,['r']
-2025,Data Analyst,35066.0,onsite,GB,['r']
-2025,Other,50278.0,onsite,GB,['r']
-2025,Data Analyst,41754.0,onsite,GB,['r']
-2025,Other,49772.0,onsite,GB,['r']
-2025,Data Scientist,42917.0,onsite,GB,['r']
-2025,Other,94560.0,onsite,GB,['r']
+2025,Data Analyst,37553.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,43008.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,35066.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,41754.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,42917.0,onsite,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Engineer,46104.0,onsite,GB,"['python', 'r', 'sql']"
-2025,Other,48739.0,onsite,GB,['r']
-2025,Data Analyst,42549.0,onsite,GB,['r']
-2025,Data Analyst,48669.0,onsite,GB,['r']
-2025,Data Analyst,37114.0,onsite,GB,['r']
-2025,Data Analyst,36050.0,onsite,GB,['r']
-2025,Data Analyst,46425.0,onsite,GB,['r']
-2025,Other,51138.0,onsite,GB,['r']
-2025,Data Analyst,61546.0,onsite,GB,['r']
-2025,Data Analyst,45000.0,onsite,GB,['r']
-2025,Other,55000.0,onsite,GB,['r']
-2025,Data Analyst,37500.0,onsite,GB,['r']
-2025,Data Analyst,51433.0,onsite,GB,['r']
-2025,Data Analyst,43953.0,hybrid,GB,['r']
+2025,Data Analyst,42549.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,48669.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37114.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,36050.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,46425.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,61546.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37500.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,51433.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,43953.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,32592.0,hybrid,GB,"['excel', 'r']"
-2025,Data Analyst,33591.0,onsite,GB,['r']
-2025,Machine Learning,75345.0,onsite,GB,"['excel', 'r']"
-2025,Data Analyst,47500.0,onsite,GB,['r']
-2025,Data Analyst,36028.0,onsite,GB,['r']
-2025,Data Analyst,45352.0,onsite,GB,['r']
-2025,Other,39945.0,onsite,GB,['r']
-2025,Other,41029.0,onsite,GB,['r']
-2025,Other,50430.0,hybrid,GB,['r']
-2025,Data Analyst,39096.0,onsite,GB,['r']
-2025,Data Analyst,33151.0,onsite,GB,['r']
-2025,Data Analyst,50000.0,onsite,GB,['r']
-2025,Data Analyst,35000.0,remote,GB,['r']
-2025,Data Analyst,53770.0,onsite,GB,['r']
-2025,Data Analyst,55000.0,onsite,GB,['r']
-2025,Other,76821.0,onsite,GB,['r']
-2025,Other,77266.0,onsite,GB,['r']
-2025,Data Scientist,49210.0,onsite,GB,['r']
-2025,Data Analyst,39392.0,onsite,GB,['r']
-2025,Other,69371.0,onsite,GB,['r']
-2025,Data Analyst,48307.0,onsite,GB,['r']
-2025,Other,44058.0,onsite,GB,['r']
-2025,Data Scientist,44361.0,onsite,GB,['r']
-2025,Data Engineer,62700.0,onsite,GB,['r']
-2025,Data Analyst,48667.0,onsite,GB,['r']
-2025,Other,39904.0,onsite,GB,['r']
-2025,Other,37136.0,onsite,GB,['r']
-2025,Other,64335.0,onsite,GB,"['aws', 'r']"
-2025,Data Analyst,52762.0,onsite,GB,['r']
-2025,Data Analyst,32115.0,onsite,GB,['r']
-2025,Data Analyst,54437.0,onsite,GB,['r']
-2025,Data Analyst,49774.0,onsite,GB,['r']
-2025,Data Analyst,20523.0,onsite,GB,['r']
+2025,Data Analyst,33591.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Machine Learning Developer,75345.0,onsite,GB,"['excel', 'r']"
+2025,Data Analyst,47500.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,36028.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45352.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,39096.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,33151.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,35000.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,53770.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,55000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,49210.0,onsite,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,39392.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,48307.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,44361.0,onsite,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Engineer,62700.0,onsite,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,48667.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,52762.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,32115.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,54437.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,49774.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,20523.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,40925.0,onsite,GB,"['python', 'r', 'sql']"
-2025,Data Analyst,36215.0,onsite,GB,['r']
-2025,Data Analyst,36630.0,onsite,GB,['r']
-2025,Data Analyst,36866.0,onsite,GB,['r']
-2025,Data Analyst,38231.0,onsite,GB,['r']
-2025,Data Analyst,37049.0,onsite,GB,['r']
-2025,Data Analyst,50000.0,hybrid,GB,['r']
-2025,Data Analyst,85000.0,onsite,GB,['r']
-2025,Other,54600.0,onsite,GB,['r']
-2025,Other,70000.0,onsite,GB,['r']
-2025,Data Analyst,101857.0,onsite,GB,['r']
-2025,Other,83848.0,hybrid,GB,['r']
-2025,Data Analyst,25000.0,hybrid,GB,['r']
-2025,Data Analyst,40020.0,remote,GB,['r']
-2025,Data Scientist,48043.0,onsite,GB,['r']
+2025,Data Analyst,36215.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,36630.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,36866.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,38231.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,37049.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,85000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,101857.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,25000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,40020.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,48043.0,onsite,GB,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Analyst,55000.0,onsite,GB,"['excel', 'power bi', 'python', 'r', 'spark', 'sql']"
-2025,Data Analyst,45000.0,remote,GB,['r']
-2025,Data Engineer,70000.0,onsite,GB,['r']
-2025,Data Analyst,35000.0,hybrid,GB,['r']
-2025,Data Analyst,85000.0,onsite,GB,['r']
-2025,Data Analyst,32755.0,onsite,GB,['r']
-2025,Data Engineer,75000.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,hybrid,NL,['r']
-2025,Data Engineer,,onsite,NL,['r']
-2025,Data Scientist,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['azure', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
+2025,Data Analyst,45000.0,remote,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,70000.0,onsite,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,35000.0,hybrid,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,85000.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,32755.0,onsite,GB,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,75000.0,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Scientist,,onsite,NL,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,NL,"['excel', 'r']"
-2025,Other,53334.0,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Engineer,,onsite,NL,['r']
-2025,Other,78000.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,hybrid,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['azure', 'r']"
-2025,Data Analyst,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['aws', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,106200.0,hybrid,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,,onsite,NL,"['machine learning', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,37200.0,onsite,NL,['r']
-2025,Other,48620.0,onsite,NL,['r']
-2025,Other,48620.0,onsite,NL,['r']
-2025,Other,48620.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,173000.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
 2025,Data Analyst,,hybrid,NL,"['power bi', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['power bi', 'r']"
-2025,Data Engineer,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Scientist,,onsite,NL,['r']
-2025,Data Analyst,,hybrid,NL,['r']
-2025,Data Engineer,,onsite,NL,['r']
-2025,Other,57288.0,onsite,NL,['r']
-2025,Data Scientist,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Scientist,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Scientist,,onsite,NL,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,hybrid,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Scientist,,onsite,NL,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Scientist,,onsite,NL,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,,onsite,NL,"['azure', 'power bi', 'python', 'r', 'sql']"
-2025,Data Engineer,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,hybrid,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,hybrid,NL,"['power bi', 'r']"
 2025,Data Analyst,72500.0,hybrid,NL,"['power bi', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,42000.0,onsite,NL,['r']
 2025,Data Analyst,,onsite,NL,"['azure', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
 2025,Data Analyst,,onsite,NL,"['azure', 'python', 'r', 'sql']"
-2025,Other,,onsite,NL,"['r', 'sql', 'tableau']"
-2025,Data Analyst,,hybrid,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,48000.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,remote,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,78000.0,onsite,NL,"['azure', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Data Engineer,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,hybrid,NL,['r']
+2025,Data Analyst,,hybrid,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
 2025,Data Analyst,,onsite,NL,"['r', 'sql', 'tableau']"
-2025,Other,,onsite,NL,"['power bi', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,66246.0,hybrid,NL,['r']
-2025,Other,,onsite,NL,"['power bi', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Scientist,,onsite,NL,"['machine learning', 'r']"
-2025,Other,,onsite,NL,['r']
-2025,Other,67710.0,onsite,NL,['r']
-2025,Data Scientist,,onsite,NL,['r']
-2025,Other,48000.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Engineer,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['r', 'sql']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Engineer,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
+2025,Data Scientist,,onsite,NL,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
 2025,Data Analyst,,onsite,NL,"['r', 'sql']"
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Engineer,,onsite,NL,['r']
-2025,Data Engineer,44130.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,66792.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,45000.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Other,,onsite,NL,"['excel', 'r']"
-2025,Data Engineer,,onsite,NL,['r']
-2025,Data Analyst,173160.0,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Other,,onsite,NL,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,44130.0,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,NL,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,173160.0,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,NL,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['r', 'spark']"
 2025,Data Analyst,,onsite,DE,"['r', 'spark']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,75000.0,onsite,DE,"['power bi', 'python', 'r', 'sql', 'tableau']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,52500.0,onsite,DE,"['r', 'tableau']"
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Other,87500.0,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,102500.0,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Other,,onsite,DE,"['excel', 'r']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,27950.0,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,27950.0,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,,onsite,DE,"['power bi', 'python', 'r', 'spark', 'sql']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['r', 'spark']"
 2025,Data Analyst,,onsite,DE,"['r', 'spark']"
 2025,Data Analyst,,onsite,DE,"['r', 'spark']"
@@ -587,668 +290,501 @@ date,job_title,salary_in_usd,work_mode,country,skills
 2025,Data Engineer,,onsite,DE,"['azure', 'r']"
 2025,Data Engineer,,onsite,DE,"['azure', 'r']"
 2025,Data Engineer,,onsite,DE,"['azure', 'r']"
-2025,Other,,onsite,DE,['r']
 2025,Data Analyst,,onsite,DE,"['r', 'sql', 'tableau']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,142480.0,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,75000.0,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,107500.0,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,142480.0,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,107500.0,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Engineer,,onsite,DE,"['r', 'tableau']"
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,remote,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,remote,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['excel', 'power bi', 'r']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['r', 'sql']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,"['machine learning', 'r']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,remote,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['excel', 'power bi', 'r', 'sql']"
-2025,Data Engineer,,remote,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Engineer,,remote,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['excel', 'r']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,remote,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,remote,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['aws', 'r']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,,onsite,DE,"['excel', 'r']"
 2025,Data Engineer,,onsite,DE,"['excel', 'r']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['excel', 'python', 'r', 'sql']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['machine learning', 'r']"
-2025,Data Scientist,,hybrid,DE,['r']
+2025,Data Scientist,,hybrid,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Analyst,,onsite,DE,"['aws', 'machine learning', 'r']"
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,DE,"['power bi', 'r']"
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Engineer,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Scientist,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Other,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,DE,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,75000.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,DE,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,DE,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['machine learning', 'r']"
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,123500.0,onsite,FR,"['python', 'r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,109200.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,109200.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['power bi', 'r', 'sql']"
 2025,Data Analyst,,onsite,FR,"['power bi', 'r']"
 2025,Data Analyst,44500.0,onsite,FR,"['power bi', 'r', 'tableau']"
-2025,Data Analyst,47500.0,onsite,FR,['r']
-2025,Other,45000.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,47500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,37500.0,onsite,FR,"['r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['power bi', 'r', 'tableau']"
 2025,Data Analyst,73992.0,onsite,FR,"['excel', 'r', 'tableau']"
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['power bi', 'r', 'sql', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['power bi', 'r', 'tableau']"
 2025,Data Analyst,37500.0,onsite,FR,"['r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,51000.0,onsite,FR,['r']
-2025,Other,73500.0,onsite,FR,"['excel', 'r']"
-2025,Data Analyst,47500.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,51000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,47500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['power bi', 'r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['power bi', 'r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
 2025,Data Analyst,,onsite,FR,"['azure', 'power bi', 'python', 'r', 'spark', 'sql']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,55000.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,12000.0,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,50000.0,onsite,FR,['r']
-2025,Data Analyst,40000.0,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,12000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,40000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['r', 'tableau']"
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,27500.0,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,remote,FR,"['excel', 'r']"
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,45000.0,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,45000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
 2025,Data Analyst,,onsite,FR,"['r', 'statistics']"
-2025,Data Analyst,39000.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,39000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,remote,FR,"['excel', 'r']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Machine Learning,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Machine Learning Developer,,onsite,FR,"['Python', 'C++', 'TensorFlow', 'PyTorch', 'ML algorithms', 'Data pipelines', 'Deployment', 'Cloud (AWS, GCP)', 'Git', 'Math', 'Experiment tracking', 'Software practices']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['r', 'tableau']"
 2025,Data Engineer,,onsite,FR,"['aws', 'azure', 'r', 'spark']"
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
-2025,Data Analyst,40000.0,onsite,FR,['r']
-2025,Data Engineer,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,40000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,37500.0,onsite,FR,"['r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Other,73992.0,onsite,FR,"['r', 'tableau']"
-2025,Data Scientist,73992.0,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,73992.0,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Analyst,50000.0,onsite,FR,"['r', 'tableau']"
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,37500.0,onsite,FR,['r']
-2025,Data Analyst,38000.0,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
+2025,Data Analyst,37500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,38000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Scientist,,onsite,FR,"['machine learning', 'r']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['excel', 'r']"
 2025,Data Analyst,51000.0,onsite,FR,"['power bi', 'r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,remote,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,37500.0,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,42500.0,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,42500.0,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,37500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,42500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,42500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,15000.0,onsite,FR,"['r', 'tableau']"
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,55000.0,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,"['excel', 'r']"
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,55000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Scientist,,onsite,FR,"['machine learning', 'r']"
-2025,Data Analyst,46500.0,onsite,FR,['r']
-2025,Data Analyst,40000.0,onsite,FR,['r']
-2025,Data Analyst,42500.0,onsite,FR,['r']
-2025,Data Analyst,50000.0,onsite,FR,['r']
-2025,Data Scientist,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,42500.0,onsite,FR,['r']
-2025,Data Analyst,69300.0,onsite,FR,['r']
+2025,Data Analyst,46500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,40000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,42500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50000.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,42500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,69300.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['r', 'tableau']"
-2025,Other,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Engineer,60000.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,47500.0,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,60000.0,onsite,FR,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,47500.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,44500.0,onsite,FR,"['power bi', 'r', 'tableau']"
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
-2025,Data Analyst,21622.0,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,21622.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,73992.0,onsite,FR,"['r', 'tableau']"
 2025,Data Analyst,73992.0,onsite,FR,"['r', 'tableau']"
 2025,Data Analyst,,onsite,FR,"['excel', 'power bi', 'r']"
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Data Scientist,73992.0,onsite,FR,['r']
-2025,Data Analyst,73992.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,73992.0,onsite,FR,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,73992.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,,onsite,FR,"['r', 'tableau']"
-2025,Other,62500.0,onsite,FR,['r']
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Scientist,,onsite,FR,"['machine learning', 'r']"
-2025,Data Analyst,,onsite,FR,['r']
+2025,Data Analyst,,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,37500.0,onsite,FR,"['r', 'tableau']"
-2025,Data Analyst,16800.0,onsite,FR,['r']
-2025,Data Analyst,93797.0,onsite,US,['r']
-2025,Other,107742.0,onsite,US,['r']
-2025,Other,66395.0,onsite,US,"['r', 'sql']"
+2025,Data Analyst,16800.0,onsite,FR,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,93797.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,78126.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,33069.0,onsite,US,['r']
-2025,Other,187889.0,onsite,US,['r']
-2025,Data Analyst,62904.0,onsite,US,['r']
-2025,Other,68369.0,onsite,US,['r']
-2025,Data Analyst,42826.0,onsite,US,['r']
-2025,Data Engineer,131410.0,onsite,US,['r']
-2025,Data Analyst,126543.0,onsite,US,['r']
-2025,Data Analyst,139193.0,onsite,US,['r']
+2025,Data Analyst,33069.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,62904.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,42826.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,131410.0,onsite,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,126543.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,139193.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,79170.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,77723.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,80933.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,95974.0,onsite,US,['r']
+2025,Data Analyst,95974.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Scientist,137996.0,onsite,US,"['machine learning', 'r']"
-2025,Data Analyst,89433.0,hybrid,US,['r']
-2025,Data Analyst,84789.0,onsite,US,['r']
-2025,Data Scientist,100046.0,hybrid,US,['r']
+2025,Data Analyst,89433.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,84789.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,100046.0,hybrid,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Analyst,78088.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,79052.0,onsite,US,"['r', 'sql']"
-2025,Data Engineer,145660.0,onsite,US,['r']
-2025,Data Analyst,138475.0,hybrid,US,['r']
+2025,Data Engineer,145660.0,onsite,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,138475.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,83181.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,86255.0,onsite,US,['r']
-2025,Data Analyst,76961.0,onsite,US,['r']
-2025,Other,160536.0,onsite,US,['r']
-2025,Other,68353.0,onsite,US,['r']
+2025,Data Analyst,86255.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,76961.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,80765.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,96285.0,onsite,US,['r']
-2025,Data Analyst,73178.0,onsite,US,['r']
-2025,Other,71803.0,onsite,US,['r']
-2025,Data Analyst,112405.0,remote,US,['r']
-2025,Other,60960.0,onsite,US,['r']
-2025,Data Scientist,93434.0,onsite,US,['r']
-2025,Data Analyst,112856.0,onsite,US,['r']
-2025,Data Analyst,43188.0,onsite,US,['r']
+2025,Data Analyst,96285.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73178.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,112405.0,remote,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,93434.0,onsite,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,112856.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,43188.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,118657.0,onsite,US,"['r', 'tableau']"
-2025,Data Analyst,65037.0,onsite,US,['r']
-2025,Other,101999.0,onsite,US,['r']
-2025,Other,173509.0,onsite,US,['r']
-2025,Data Analyst,50180.0,onsite,US,['r']
-2025,Data Analyst,90183.0,onsite,US,['r']
-2025,Data Analyst,95449.0,onsite,US,['r']
-2025,Other,52126.0,onsite,US,['r']
+2025,Data Analyst,65037.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,50180.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,90183.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,95449.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,90121.0,onsite,US,"['excel', 'r']"
-2025,Data Analyst,89853.0,onsite,US,['r']
-2025,Data Analyst,75718.0,onsite,US,['r']
-2025,Data Analyst,89268.0,onsite,US,['r']
-2025,Other,94710.0,onsite,US,['r']
-2025,Data Analyst,115276.0,onsite,US,['r']
-2025,Other,86270.0,onsite,US,"['power bi', 'r']"
-2025,Data Analyst,100767.0,onsite,US,['r']
-2025,Other,68970.0,onsite,US,['r']
-2025,Data Scientist,143883.0,onsite,US,['r']
-2025,Data Analyst,58679.0,onsite,US,['r']
-2025,Other,97389.0,onsite,US,['r']
+2025,Data Analyst,89853.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,75718.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,89268.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,115276.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,100767.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,143883.0,onsite,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,58679.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,70370.0,onsite,US,"['r', 'sql']"
-2025,Other,139115.0,onsite,US,['r']
-2025,Other,95834.0,onsite,US,['r']
-2025,Data Analyst,85977.0,onsite,US,['r']
+2025,Data Analyst,85977.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,82745.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,92570.0,onsite,US,['r']
+2025,Data Analyst,92570.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,107457.0,onsite,US,"['machine learning', 'r']"
-2025,Data Analyst,88778.0,onsite,US,['r']
+2025,Data Analyst,88778.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,78901.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,73962.0,onsite,US,['r']
-2025,Other,138753.0,onsite,US,['r']
-2025,Other,136336.0,onsite,US,"['aws', 'r']"
+2025,Data Analyst,73962.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,76744.0,onsite,US,"['r', 'sql']"
-2025,Data Engineer,74715.0,onsite,US,['r']
-2025,Data Analyst,127601.0,hybrid,US,['r']
-2025,Other,118314.0,onsite,US,['r']
+2025,Data Engineer,74715.0,onsite,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,127601.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,83542.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,78441.0,onsite,US,"['r', 'sql']"
-2025,Data Engineer,116025.0,onsite,US,['r']
-2025,Other,107098.0,onsite,US,['r']
-2025,Data Analyst,85466.0,onsite,US,['r']
-2025,Data Scientist,151475.0,onsite,US,['r']
-2025,Data Scientist,171455.0,onsite,US,['r']
-2025,Other,54461.0,onsite,US,['r']
-2025,Other,56649.0,onsite,US,['r']
+2025,Data Engineer,116025.0,onsite,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,85466.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,151475.0,onsite,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Scientist,171455.0,onsite,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Analyst,54290.0,onsite,US,"['aws', 'r']"
 2025,Data Engineer,213196.0,onsite,US,"['excel', 'r']"
-2025,Other,99819.0,hybrid,US,['r']
-2025,Data Analyst,89494.0,onsite,US,['r']
-2025,Data Analyst,87792.0,remote,US,['r']
+2025,Data Analyst,89494.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,87792.0,remote,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,82150.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,79305.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,67234.0,onsite,US,['r']
-2025,Data Analyst,92041.0,onsite,US,['r']
+2025,Data Analyst,67234.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,92041.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,88390.0,onsite,US,"['r', 'sql']"
-2025,Other,119153.0,onsite,US,['r']
-2025,Data Analyst,77762.0,onsite,US,['r']
+2025,Data Analyst,77762.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,80222.0,onsite,US,"['r', 'sql']"
-2025,Other,48351.0,onsite,US,['r']
 2025,Data Analyst,111437.0,remote,US,"['python', 'r', 'sql']"
-2025,Other,122208.0,onsite,US,['r']
-2025,Other,113391.0,remote,US,['r']
-2025,Data Analyst,160268.0,onsite,US,['r']
-2025,Data Engineer,106473.0,onsite,US,['r']
-2025,Data Analyst,77604.0,onsite,US,['r']
-2025,Other,83918.0,onsite,US,['r']
-2025,Other,148553.0,onsite,US,['r']
-2025,Data Analyst,84713.0,onsite,US,['r']
-2025,Data Scientist,61710.0,onsite,US,['r']
-2025,Other,97657.0,onsite,US,['r']
-2025,Data Analyst,65786.0,onsite,US,['r']
-2025,Other,130935.0,onsite,US,['r']
-2025,Other,99685.0,onsite,US,"['azure', 'r']"
-2025,Data Engineer,112119.0,hybrid,US,['r']
-2025,Data Analyst,74795.0,onsite,US,['r']
+2025,Data Analyst,160268.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,106473.0,onsite,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,77604.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,84713.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,61710.0,onsite,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,65786.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Engineer,112119.0,hybrid,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Analyst,74795.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,88541.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,76380.0,hybrid,US,['r']
+2025,Data Analyst,76380.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,91487.0,onsite,US,"['excel', 'r']"
-2025,Data Analyst,79971.0,hybrid,US,['r']
+2025,Data Analyst,79971.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,80471.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,81964.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,79907.0,onsite,US,"['r', 'sql']"
-2025,Other,91180.0,onsite,US,['r']
 2025,Data Analyst,76403.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,79570.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,77913.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,50354.0,onsite,US,['r']
+2025,Data Analyst,50354.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,81322.0,onsite,US,"['r', 'sql']"
-2025,Other,50831.0,onsite,US,['r']
-2025,Data Analyst,85310.0,onsite,US,['r']
-2025,Data Analyst,72024.0,onsite,US,['r']
+2025,Data Analyst,85310.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,72024.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,213410.0,onsite,US,"['excel', 'r']"
-2025,Data Analyst,131062.0,hybrid,US,['r']
+2025,Data Analyst,131062.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,148499.0,onsite,US,"['excel', 'r']"
-2025,Data Analyst,128076.0,hybrid,US,['r']
-2025,Data Analyst,77101.0,onsite,US,['r']
+2025,Data Analyst,128076.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,77101.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,82542.0,onsite,US,"['r', 'sql']"
-2025,Other,78505.0,onsite,US,['r']
-2025,Data Analyst,123092.0,hybrid,US,['r']
+2025,Data Analyst,123092.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,139469.0,onsite,US,"['excel', 'r']"
-2025,Data Analyst,120288.0,hybrid,US,['r']
+2025,Data Analyst,120288.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,77523.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,81528.0,onsite,US,"['r', 'sql']"
-2025,Other,141709.0,onsite,US,['r']
 2025,Data Analyst,73064.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,79387.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,85623.0,onsite,US,"['r', 'sql']"
 2025,Data Analyst,78239.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,65727.0,onsite,US,['r']
+2025,Data Analyst,65727.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,85021.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,91365.0,onsite,US,['r']
-2025,Other,92097.0,onsite,US,['r']
-2025,Other,58985.0,onsite,US,['r']
-2025,Other,125266.0,onsite,US,['r']
-2025,Other,134225.0,onsite,US,['r']
-2025,Other,87727.0,onsite,US,['r']
-2025,Other,119673.0,onsite,US,['r']
-2025,Other,115579.0,onsite,US,['r']
-2025,Data Analyst,84244.0,onsite,US,['r']
+2025,Data Analyst,91365.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,84244.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,85149.0,onsite,US,"['azure', 'r']"
-2025,Data Analyst,99426.0,onsite,US,['r']
-2025,Other,58596.0,onsite,US,['r']
-2025,Data Scientist,95547.0,onsite,US,['r']
+2025,Data Analyst,99426.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,95547.0,onsite,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2025,Data Analyst,85934.0,onsite,US,"['machine learning', 'r']"
 2025,Data Analyst,85097.0,onsite,US,"['r', 'sql']"
-2025,Other,93477.0,onsite,US,['r']
-2025,Other,133525.0,onsite,US,['r']
-2025,Data Analyst,160833.0,onsite,US,['r']
-2025,Data Analyst,129589.0,onsite,US,['r']
-2025,Other,79741.0,onsite,US,['r']
+2025,Data Analyst,160833.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,129589.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,84206.0,onsite,US,"['r', 'sql']"
-2025,Other,142361.0,onsite,US,['r']
-2025,Data Analyst,128101.0,onsite,US,['r']
-2025,Data Analyst,104372.0,onsite,US,['r']
-2025,Other,141334.0,onsite,US,['r']
+2025,Data Analyst,128101.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,104372.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Engineer,144218.0,onsite,US,"['excel', 'r']"
 2025,Data Engineer,146643.0,onsite,US,"['excel', 'r']"
-2025,Data Analyst,129423.0,hybrid,US,['r']
-2025,Data Analyst,111908.0,hybrid,US,['r']
-2025,Data Analyst,124383.0,hybrid,US,['r']
-2025,Data Analyst,127283.0,hybrid,US,['r']
-2025,Data Analyst,126475.0,hybrid,US,['r']
+2025,Data Analyst,129423.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,111908.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,124383.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,127283.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,126475.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,80162.0,onsite,US,"['r', 'sql']"
-2025,Other,92625.0,remote,US,['r']
-2025,Other,147291.0,onsite,US,['r']
-2025,Other,85991.0,hybrid,US,"['aws', 'r']"
-2025,Data Analyst,77308.0,hybrid,US,['r']
-2025,Other,95045.0,onsite,US,['r']
+2025,Data Analyst,77308.0,hybrid,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,81369.0,onsite,US,"['r', 'sql', 'tableau']"
-2025,Data Analyst,69044.0,onsite,US,['r']
-2025,Data Analyst,94940.0,onsite,US,['r']
-2025,Other,75963.0,onsite,US,['r']
-2025,Data Analyst,111534.0,onsite,US,['r']
+2025,Data Analyst,69044.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,94940.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,111534.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,77762.0,onsite,US,"['r', 'sql']"
-2025,Data Analyst,113900.0,remote,US,['r']
-2025,Other,170000.0,onsite,US,['r']
-2025,Other,96450.0,onsite,US,['r']
-2025,Other,96450.0,onsite,US,['r']
-2025,Other,229250.0,onsite,US,['r']
-2025,Other,96450.0,onsite,US,['r']
-2025,Data Analyst,53446.0,onsite,US,['r']
-2025,Other,124424.0,onsite,US,['r']
-2025,Other,76893.0,remote,US,['r']
-2025,Other,112761.0,onsite,US,['r']
-2025,Other,182876.0,onsite,US,"['aws', 'excel', 'r']"
+2025,Data Analyst,113900.0,remote,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,53446.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2025,Data Analyst,127886.0,onsite,US,"['excel', 'r']"
-2025,Data Engineer,110262.0,remote,US,['r']
-2025,Data Engineer,102498.0,remote,US,['r']
-2025,Data Engineer,102177.0,remote,US,['r']
-2025,Data Engineer,101052.0,remote,US,['r']
-2025,Data Engineer,104953.0,remote,US,['r']
-2025,Data Engineer,101011.0,remote,US,['r']
-2025,Data Engineer,106898.0,remote,US,['r']
-2025,Data Engineer,100075.0,remote,US,['r']
-2025,Data Engineer,107795.0,remote,US,['r']
-2025,Data Engineer,100570.0,remote,US,['r']
-2025,Data Engineer,102556.0,remote,US,['r']
-2025,Data Engineer,102033.0,remote,US,['r']
-2025,Data Engineer,106943.0,remote,US,['r']
-2025,Data Engineer,104580.0,remote,US,['r']
-2025,Data Engineer,105702.0,remote,US,['r']
-2025,Data Engineer,97335.0,remote,US,['r']
-2025,Data Engineer,100966.0,remote,US,['r']
-2025,Data Engineer,101049.0,remote,US,['r']
-2025,Data Engineer,102946.0,remote,US,['r']
-2025,Data Engineer,103255.0,remote,US,['r']
-2025,Data Engineer,103823.0,remote,US,['r']
+2025,Data Engineer,110262.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,102498.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,102177.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,101052.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,104953.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,101011.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,106898.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,100075.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,107795.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,100570.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,102556.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,102033.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,106943.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,104580.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,105702.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,97335.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,100966.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,101049.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,102946.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,103255.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
+2025,Data Engineer,103823.0,remote,US,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
 2025,Data Analyst,101927.0,onsite,US,"['power bi', 'r', 'sql']"
-2025,Data Analyst,130673.0,onsite,US,['r']
-2025,Other,35577.0,onsite,US,['r']
-2025,Data Analyst,86057.0,onsite,US,['r']
-2025,Data Analyst,80502.0,onsite,US,['r']
-2025,Other,222176.0,onsite,US,"['excel', 'r']"
-2025,Data Analyst,87500.0,onsite,US,['r']
-2025,Other,323404.0,onsite,US,['r']
-2025,Data Scientist,79790.0,onsite,US,['r']
-2025,Other,56568.0,onsite,US,['r']
-2025,Other,91218.0,onsite,US,['r']
-2025,Other,110695.0,onsite,US,['r']
-2025,Other,126031.0,remote,US,['r']
-2025,Other,48890.0,onsite,US,['r']
-2025,Other,52882.0,onsite,US,['r']
-2025,Other,59974.0,onsite,US,['r']
-2025,Other,57725.0,onsite,US,['r']
-2025,Other,152675.0,remote,US,['r']
-2025,Other,100598.0,onsite,US,['r']
-2025,Data Analyst,120522.0,onsite,US,['r']
-2025,Other,127390.0,onsite,US,['r']
-2025,Data Analyst,68026.0,onsite,US,['r']
-2025,Data Analyst,74026.0,onsite,US,['r']
-2025,Data Analyst,70282.0,onsite,US,['r']
-2025,Data Analyst,73620.0,onsite,US,['r']
+2025,Data Analyst,130673.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,86057.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,80502.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,87500.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Scientist,79790.0,onsite,US,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
+2025,Data Analyst,120522.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,68026.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,74026.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,70282.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
+2025,Data Analyst,73620.0,onsite,US,"['SQL', 'Excel', 'Python', 'R', 'Tableau', 'Power BI', 'Statistics', 'Cleaning data', 'Reporting', 'Communication', 'Business insight', 'Critical thinking']"
 2020,Data Scientist,79833.0,on_site,DE,"['Python', 'R', 'Statistics', 'Machine learning', 'Data cleaning', 'SQL', 'Visualization (e.g. Tableau)', 'Big data (e.g. Spark)', 'Model validation', 'Communication', 'Domain knowledge']"
 2020,Machine Learning Developer,260000.0,on_site,JP,"['Python', 'C++', 'TensorFlow', 'PyTorch', 'ML algorithms', 'Data pipelines', 'Deployment', 'Cloud (AWS, GCP)', 'Git', 'Math', 'Experiment tracking', 'Software practices']"
 2020,Data Engineer,109024.0,hybrid,GB,"['Python', 'Java', 'Scala', 'SQL', 'NoSQL', 'ETL', 'pipelines', 'Spark', 'Kafka', 'Airflow', 'Cloud platforms', 'Data modeling', 'Docker', 'Kubernetes', 'APIs', 'Linux']"
