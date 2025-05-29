@@ -1,0 +1,96 @@
+date,company,job_title,location,skills,salary_min,salary_max
+2025-05-19 11:00:03+00:00,Anchorage Digital,member of product marketing protocols,United States,"['crypto', 'security', 'technical', 'support', 'copywriting', 'growth', 'financial', 'finance', 'bank', 'lead', 'content', 'marketing', 'legal', 'sales', 'educational']",40000,70000
+2025-05-17 13:00:04+00:00,Ironclad,manager engineering ii data pipelines,San Francisco,"['manager', 'design', 'hr', 'docker', 'technical', 'software', 'testing', 'growth', 'cloud', 'leader', 'management', 'operational', 'legal', 'sales', 'health', 'engineering', 'digital nomad']",67500,97500
+2025-05-16 22:00:03+00:00,PIP Labs,visual designer,US,"['design', 'web3', 'designer', 'management', 'content', 'senior', 'marketing', 'digital nomad']",80000,150000
+2025-05-16 11:00:10+00:00,Symmetry Systems,marketing design intern 2025 summer intern,Remote,"['design', 'security', 'technical', 'support', 'software', 'video', 'management', 'content', 'marketing', 'digital nomad']",70000,80000
+2025-05-16 11:00:03+00:00,Blueland,lifecycle marketing associate,Remote,"['support', 'growth', 'investment', 'strategy', 'management', 'marketing', 'part-time']",35000,65000
+2025-05-16 10:00:03+00:00,Anchorage Digital,member of product trading,United States,"['design', 'crypto', 'cryptocurrency', 'swift', 'security', 'technical', 'growth', 'voice', 'manager', 'financial', 'finance', 'bank', 'strategy', 'management', 'senior', 'legal', 'engineering', 'digital nomad']",67500,125000
+2025-05-16 00:00:06+00:00,EnableComp,associate attorney,,"['training', 'support', 'growth', 'financial', 'strategy', 'management', 'senior', 'legal', 'health', 'healthcare']",90000,152500
+2025-05-15 18:00:01+00:00,,,,"['sales', 'non tech']",40000,67500
+2025-05-15 11:41:41+00:00,Interaction Design Foundation,member support unicorn,,"['admin', 'customer support', 'social media']",10000,750000
+2025-05-15 10:00:03+00:00,Notabene,data engineer,,"['frontend', 'design', 'crypto', 'cryptocurrency', 'system', 'front-end', 'security', 'full-stack', 'technical', 'support', 'software', 'growth', 'code', 'web', 'manager', 'financial', 'fintech', 'typescript', 'lead', 'junior', 'reliability', 'engineer', 'engineering', 'digital nomad']",70000,110000
+2025-05-15 00:00:20+00:00,Warner Music Inc.,machine learning developer,,"['music', 'design', 'system', 'training', 'software', 'cloud', 'junior', 'engineer', 'engineering', 'full-time', 'digital nomad']",60000,97500
+2025-05-15 00:00:09+00:00,Qualdoc,recruiter,NA,"['system', 'recruiter', 'support', 'manager', 'microsoft', 'recruiting', 'recruitment']",0,0
+2025-05-14 22:23:33+00:00,Contra,social media expert,,['social media'],120000,150000
+2025-05-14 22:22:19+00:00,Contra,app designer,,['designer'],120000,150000
+2025-05-14 15:01:34+00:00,Daisychain,full stack software engineer,,"['engineer', 'dev', 'javascript', 'ruby', 'postgres', 'vue', 'typescript', 'redis', 'aws']",70000,160000
+2025-05-14 00:00:07+00:00,Trial Library,data engineer,"San Francisco, CA","['testing', 'system', 'frontend', 'security', 'python', 'software', 'test', 'code', 'qa', 'typescript', 'api', 'reliability', 'health', 'healthcare', 'engineer', 'engineering', 'backend']",70000,120000
+2025-05-13 16:00:31+00:00,Find,accountant,Sliema,"['accountant', 'support', 'controller', 'accounting', 'financial', 'finance', 'microsoft', 'management', 'operations', 'non tech']",25000,65000
+2025-05-13 16:00:25+00:00,Find,commercial content editor,,"['crypto', 'cryptocurrency', 'financial', 'seo', 'management', 'content', 'operations', 'sales', 'non tech']",32500,70000
+2025-05-13 08:00:16+00:00,Oowlish Technology,data engineer,,"['salesforce', 'software', 'growth', 'engineer']",60000,125000
+2025-05-13 08:00:10+00:00,Bluelight Consulting,account coordinator,"Indianapolis, Indiana","['consulting', 'training', 'coordinator', 'support', 'growth', 'manager', 'education', 'management', 'content', 'senior', 'marketing']",80000,150000
+2025-05-13 06:00:04+00:00,AVA Foundation,head of growth,Anywhere,"['growth', 'design', 'web3', 'crypto', 'test', 'travel', 'strategy', 'management', 'lead', 'digital nomad']",40000,80000
+2025-05-12 16:00:04+00:00,Public Cloud Group,werkstudent im bereich sap &amp; cloud automation,Alle,"['python', 'cloud', 'linux']",55000,80000
+2025-05-12 10:15:02+00:00,WunderGraph,senior golang engineer,,"['golang', 'graphql', 'senior', 'golang', 'engineer']",70000,120000
+2025-05-12 09:00:02+00:00,bloXroute Labs,software engineering team lead,Remote,"['software', 'support', 'testing', 'growth', 'code', 'lead', 'go', 'engineering', 'backend']",75000,102500
+2025-05-11 16:00:19+00:00,Bounteous,salesforce lead,India,"['salesforce', 'design', 'security', 'consultancy', 'technical', 'software', 'management', 'lead', 'analytics', 'legal', 'digital nomad']",60000,130000
+2025-05-11 16:00:12+00:00,FiscalNote,mid market sales account executive,United States - Remote,"['salesforce', 'training', 'support', 'software', 'leader', 'management', 'lead', 'sales', 'recruiting', 'executive']",52500,100000
+2025-05-11 14:00:03+00:00,Vesta,support specialist,Remote,"['system', 'security', 'support', 'software', 'financial', 'finance', 'cloud', 'engineering']",55000,77500
+2025-05-10 21:00:03+00:00,Fullscript,data engineer,,"['design', 'python', 'technical', 'support', 'testing', 'growth', 'code', 'devops', 'financial', 'cloud', 'leader', 'senior', 'junior', 'analytics', 'health', 'healthcare', 'engineer', 'engineering', 'digital nomad']",67500,120000
+2025-05-10 13:00:08+00:00,Cozymeal,digital editorial manager,,"['manager', 'support', 'seo', 'lead', 'content']",20000,70000
+2025-05-10 01:38:55+00:00,Blotato,senior fullstack software engineer,,"['dev', 'javascript', 'typescript', 'heroku', 'aws']",80000,120000
+2025-05-09 21:00:06+00:00,Wintermute,investment manager,USA / Remote,"['manager', 'web3', 'defi', 'crypto', 'cryptocurrency', 'technical', 'support', 'software', 'growth', 'financial', 'investment', 'finance', 'admin', 'management']",50000,80000
+2025-05-09 11:00:11+00:00,Blink UX,content writer,All Locations,"['design', 'consulting', 'technical', 'recruiter', 'writer', 'growth', 'ux', 'voice', 'seo', 'ads', 'content', 'marketing', 'analytics', 'sales', 'digital nomad']",47500,75000
+2025-05-09 11:00:02+00:00,Torch,sales development representative,Remote,"['support', 'lead', 'marketing', 'sales']",45000,67500
+2025-05-08 17:15:03+00:00,Smallstep,sr software engineer cross platform applications,,"['golang', 'software', 'engineer']",55000,100000
+2025-05-08 17:15:03+00:00,Smallstep,sr software engineer backend web applications,,"['golang', 'software', 'web', 'engineer', 'backend']",70000,85000
+2025-05-08 17:00:02+00:00,"Manta Network, Powered by p0x labs",web3 marketing manager,Anywhere,"['web3', 'manager', 'voice', 'content', 'marketer', 'marketing', 'full-time', 'non tech']",35000,65000
+2025-05-08 11:00:01+00:00,"Manta Network, Powered by p0x labs",web3 marketing manager,Anywhere,"['web3', 'manager', 'content', 'marketer', 'marketing', 'full-time', 'non tech']",35000,65000
+2025-05-08 09:00:03+00:00,Risk Labs,data engineer,Remote,"['design', 'defi', 'crypto', 'training', 'game', 'technical', 'support', 'software', 'code', 'junior', 'engineer', 'engineering', 'digital nomad']",55000,100000
+2025-05-07 16:00:08+00:00,MoonPay,australia deputy mlro,Australia - Remote,"['web3', 'crypto', 'training', 'recruiter', 'support', 'software', 'growth', 'voice', 'financial', 'video', 'finance', 'management', 'senior', 'analytics']",60000,80000
+2025-05-07 15:00:09+00:00,Creator Deck,account executive,Remote,"['content', 'health', 'executive']",0,0
+2025-05-07 14:00:04+00:00,Dapper Labs,design centric senior front end engineer,"US / Canada, Remote","['design', 'front-end', 'frontend', 'software', 'code', 'javascript', 'css', 'senior', 'engineer', 'digital nomad']",80000,155000
+2025-05-07 09:15:04+00:00,Cast AI,senior software engineer hosted team,,"['golang', 'software', 'senior', 'engineer']",70000,120000
+2025-05-07 08:15:02+00:00,Smallstep,data engineer,,"['golang', 'software', 'engineer']",55000,100000
+2025-05-07 08:01:50+00:00,Maxflow BV / CrazyGames,senior front end engineer,,"['design', 'react', 'front-end', 'frontend', 'designer', 'code', 'manager', 'typescript', 'senior', 'analytics', 'engineer', 'engineering', 'digital nomad']",70000,120000
+2025-05-07 08:01:42+00:00,Tether Operations Limited,technical documentation engineer,,"['bitcoin', 'technical', 'writer', 'support', 'growth', 'code', 'financial', 'fintech', 'git', 'node.js', 'leader', 'ops', 'engineer']",65000,110000
+2025-05-07 08:01:32+00:00,TransPerfect,dutch content creator,,['content'],0,0
+2025-05-07 08:01:24+00:00,Hostaway,product marketing manager europe,,"['manager', 'saas', 'testing', 'growth', 'education', 'strategy', 'marketing', 'sales', 'health']",45000,67500
+2025-05-07 08:00:55+00:00,Actindo AG,account executive,,"['saas', 'software', 'sales', 'backend', 'executive']",55000,70000
+2025-05-07 08:00:39+00:00,Nextech,software engineer iii,Remote,"['software', 'full-stack', 'technical', 'support', 'code', 'travel', 'scrum', 'accounting', 'devops', 'javascript', 'finance', 'microsoft', 'leader', 'healthcare', 'engineer']",60000,85000
+2025-05-07 08:00:15+00:00,Utility Profit + Sunroom,data and business intelligence engineer mid level fully,,"['design', 'saas', 'leader', 'operations', 'telecom', 'engineer', 'educational', 'digital nomad']",70000,120000
+2025-05-07 08:00:03+00:00,Nava,senior software engineer,Remote,"['software', 'design', 'security', 'python', 'training', 'consultancy', 'technical', 'support', 'growth', 'code', 'web', 'travel', 'devops', 'java', 'cloud', 'mobile', 'senior', 'health', 'recruiting', 'engineer', 'engineering', 'backend', 'digital nomad']",62500,92500
+2025-05-07 06:00:05+00:00,Generation,learning cohort moderator,,"['design', 'system', 'teach', 'support', 'travel', 'adult', 'financial', 'management', 'content', 'analytics', 'part-time', 'digital nomad']",95000,122500
+2025-05-07 00:00:07+00:00,e.l.f. Beauty,category manager walmart,United States - Remote,"['manager', 'growth', 'microsoft', 'excel', 'analytics', 'sales', 'full-time']",55000,70000
+2025-05-06 13:21:31+00:00,CrazyGames,machine learning developer,,"['dev', 'mobile', 'iOS', 'android', 'web dev', 'javascript', 'react']",40000,70000
+2025-05-06 13:00:03+00:00,Presto,product partnerships manager,APAC,"['manager', 'design', 'crypto', 'cryptocurrency', 'growth', 'fintech', 'management', 'digital nomad']",95000,122500
+2025-05-06 10:00:04+00:00,Anchorage Digital,member of technical staff transparency front end engineer,United States,"['crypto', 'frontend', 'security', 'technical', 'support', 'software', 'testing', 'test', 'growth', 'code', 'web', 'javascript', 'financial', 'finance', 'bank', 'marketing', 'legal', 'engineer', 'engineering']",60000,90000
+2025-05-06 00:00:50+00:00,The People Brand,head of marketing,United States,"['amazon', 'ceo', 'technical', 'test', 'growth', 'strategy', 'management', 'lead', 'content', 'marketing', 'sales']",55000,70000
+2025-05-06 00:00:22+00:00,Firework,backend software engineer,Canada,"['software', 'design', 'saas', 'graphql', 'system', 'python', 'technical', 'code', 'video', 'engineer', 'engineering', 'backend', 'digital nomad']",70000,120000
+2025-05-06 00:00:08+00:00,Firework,sales development representative,MÃ©xico,"['saas', 'salesforce', 'support', 'growth', 'video', 'lead', 'content', 'operations', 'sales']",52500,75000
+2025-05-05 22:27:36+00:00,Contra,data engineer,,['engineer'],120000,150000
+2025-05-05 22:25:27+00:00,Contra,social media editor,,"['marketing', 'other', 'social media']",120000,150000
+2025-05-04 11:19:35+00:00,NextStep,influencer marketing intern,,"['marketing', 'internship', 'social media', 'remote', 'influencer-marketing', 'digital marketing', 'entry level', 'campaign-management']",30000,60000
+2025-05-04 09:00:06+00:00,15Five,principal product designer,"US, Remote","['design', 'hr', 'training', 'designer', 'test', 'ux', 'manager', 'education', 'management', 'health', 'full-time', 'digital nomad']",85000,102500
+2025-05-04 06:00:04+00:00,CoinGecko,operations intern,Malaysia,"['web3', 'nft', 'cryptocurrency', 'cryptocurrencies', 'support', 'web', 'financial', 'education', 'leader', 'operations', 'analytics', 'internship', 'non tech']",35000,75000
+2025-05-03 14:00:05+00:00,Ontic,software engineer android,"Noida, India","['software', 'design', 'developer', 'testing', 'ui', 'code', 'education', 'cloud', 'git', 'android', 'engineer', 'digital nomad']",80000,120000
+2025-05-03 00:00:03+00:00,500 WP Company LLC,computational journalist data reporting,DC-Washington-TWP Headquarters,"['embedded', 'training', 'software', 'director', 'devops', 'education', 'cloud', 'leader', 'health', 'engineering', 'full-time', 'part-time']",57500,80000
+2025-05-02 18:00:07+00:00,BlackCloak,fullstack software engineer,United States,"['software', 'design', 'system', 'front-end', 'back-end', 'architect', 'technical', 'code', 'web', 'devops', 'javascript', 'css', 'nosql', 'api', 'mobile', 'lead', 'junior', 'health', 'engineer', 'fullstack', 'full-time', 'digital nomad']",67500,105000
+2025-05-02 16:00:10+00:00,StackAdapt,machine learning developer,Canada,"['salesforce', 'developer', 'design', 'saas', 'system', 'security', 'training', 'technical', 'support', 'software', 'scrum', 'devops', 'cloud', 'css', 'ads', 'api', 'administrator', 'leader', 'management', 'lead', 'operations', 'operational', 'marketing', 'sales', 'health', 'digital nomad']",55000,85000
+2025-05-02 15:00:04+00:00,Tether Operations Limited,senior technical product manager wallets,,"['manager', 'defi', 'crypto', 'bitcoin', 'technical', 'testing', 'growth', 'javascript', 'financial', 'fintech', 'leader', 'management', 'lead', 'senior', 'ops']",60000,100000
+2025-05-02 14:00:06+00:00,MissionWired,copywriter,United States - Remote Flexibility,"['copywriter', 'support', 'voice', 'lead', 'marketing', 'health', 'non tech']",32500,65000
+2025-05-02 10:00:03+00:00,Tenderly,lead backend engineer debugger,Europe OR In-Office Belgrade,"['design', 'web3', 'ethereum', 'system', 'full-stack', 'technical', 'support', 'growth', 'code', 'cloud', 'node', 'management', 'lead', 'reliability', 'engineer', 'engineering', 'backend', 'digital nomad']",65000,82500
+2025-05-01 21:00:01+00:00,BDG,commerce editor temporary,"New York, NY","['amazon', 'wordpress', 'strategy', 'content', 'marketing', 'analytics', 'sales', 'health', 'e-commerce', 'non tech']",35000,70000
+2025-05-01 18:05:55+00:00,Contra,senior software engineer,,"['dev', 'engineer', 'full stack']",120000,150000
+2025-05-01 16:00:15+00:00,Headlight,licensed professional clinical counselor california,"Remote, California","['training', 'consult', 'support', 'software', 'growth', 'lead', 'marketing', 'health', 'executive']",35000,60000
+2025-05-01 00:00:07+00:00,Revinate,customer success manager,Australia,"['manager', 'saas', 'hr', 'security', 'consult', 'technical', 'support', 'growth', 'education', 'management', 'lead', 'marketing', 'sales']",32500,57500
+2025-04-30 10:00:04+00:00,Gate.io,product manager vip,APAC,['manager'],0,0
+2025-04-29 16:57:17+00:00,Contra,content creator,,"['other', 'social media']",70000,80000
+2025-04-29 16:55:28+00:00,Contra,social media video editor,,"['video', 'social media', 'other']",70000,80000
+2025-04-29 14:44:28+00:00,Worldee,itinerary creator turn your travels into ome,,"['other', 'travel', 'writing', 'marketing']",10000,10000
+2025-04-29 13:47:19+00:00,Givens Transportation Solutions,freight broker,,"['sales', 'transportation']",10000,200000
+2025-04-29 11:00:01+00:00,Deep Genomics,research scientist statistical genetics,North America,"['software', 'testing', 'growth', 'code', 'cloud', 'biology']",65000,97500
+2025-04-29 10:36:20+00:00,Kodify Media Group,data engineer,,['quality assurance'],60000,70000
+2025-04-29 10:00:04+00:00,Anchorage Digital,member of product atlas settlement,United States,"['design', 'crypto', 'cryptocurrency', 'security', 'technical', 'manager', 'financial', 'finance', 'fintech', 'banking', 'bank', 'strategy', 'management', 'operational', 'legal', 'engineering', 'digital nomad']",60000,85000
+2025-04-28 18:00:03+00:00,Cyngn,senior software engineer full stack,"Menlo Park, CA","['software', 'design', 'saas', 'system', 'frontend', 'docker', 'code', 'voice', 'java', 'cloud', 'nosql', 'typescript', 'api', 'management', 'senior', 'operational', 'go', 'health', 'engineer', 'backend', 'full-time', 'digital nomad']",65000,97500
+2025-04-28 10:00:03+00:00,Anchorage Digital,sales operations,United States,"['design', 'crypto', 'salesforce', 'security', 'technical', 'support', 'growth', 'accounting', 'financial', 'investment', 'investor', 'finance', 'bank', 'strategy', 'management', 'lead', 'senior', 'operations', 'operational', 'marketing', 'analytics', 'legal', 'sales', 'digital nomad']",55000,80000
+2025-04-28 03:00:16+00:00,Quash,product engineer frontend,,"['frontend', 'design', 'react', 'system', 'front-end', 'architect', 'technical', 'support', 'testing', 'test', 'qa', 'typescript', 'strategy', 'engineer', 'backend', 'digital nomad']",67500,120000
+2025-04-27 00:00:10+00:00,Xsolla,head of operations japan,Tokyo,"['game', 'gaming', 'support', 'software', 'growth', 'management', 'operations', 'operational']",0,0
+2025-04-26 16:00:02+00:00,KPA,data analyst,Remote,"['analyst', 'saas', 'salesforce', 'training', 'consulting', 'technical', 'support', 'software', 'content', 'operations', 'excel', 'health']",70000,115000
+2025-04-26 00:00:05+00:00,Oowlish Technology,react + node developer web applications,,"['react', 'developer', 'web', 'frontend', 'security', 'full-stack', 'docker', 'software', 'growth', 'code', 'node', 'management', 'engineering', 'backend', 'fullstack', 'digital nomad']",60000,82500
+2025-04-25 22:00:02+00:00,PlayOn,photo editor,"Alpharetta, GA","['teach', 'students', 'support', 'travel', 'video', 'leader', 'management', 'content', 'excel', 'health', 'full-time', 'part-time', 'non tech']",35000,75000
+2025-04-25 13:00:01+00:00,Crypto.com,devops engineer staking,,"['cryptocurrency', 'system', 'security', 'support', 'devops', 'cloud', 'engineer', 'recruitment', 'linux']",60000,82500
+2025-04-25 12:00:04+00:00,Anagram,business operations administrator,Anywhere,"['support', 'accounting', 'payroll', 'finance', 'administrator', 'management', 'operations', 'operational', 'recruiting', 'non tech']",30000,70000
+2025-04-24 19:00:12+00:00,Lead Bank,project coordinator,Remote,"['design', 'embedded', 'training', 'technical', 'coordinator', 'support', 'manager', 'financial', 'fintech', 'banking', 'finance', 'bank', 'management', 'exec', 'lead', 'content', 'senior', 'operations', 'operational', 'legal', 'digital nomad']",70000,122500
+2025-04-24 19:00:02+00:00,Lead Bank,associate program manager,Remote,"['manager', 'design', 'embedded', 'training', 'technical', 'support', 'financial', 'fintech', 'banking', 'finance', 'bank', 'management', 'exec', 'lead', 'content', 'senior', 'operations', 'operational', 'legal', 'digital nomad']",70000,122500
+2025-04-24 10:00:03+00:00,VC Lab,venture capital social media manager,Palo Alto,"['manager', 'growth', 'director', 'voice', 'investment', 'leader', 'strategy', 'management', 'content', 'analytics', 'educational']",0,0
